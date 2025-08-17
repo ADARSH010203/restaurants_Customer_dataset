@@ -1,4 +1,4 @@
-# AGENT.md
+# README.md
 
 ## Project Overview
 Data science/ML competition project with food delivery vendor prediction task. No traditional codebase - pure data analysis project.
